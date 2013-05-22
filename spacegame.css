@@ -1,0 +1,8 @@
+body{margin:0px;width:100%; height:100%}
+#content { padding:5px; background:#4b143f; border-radius:5px; border:1px solid #310a27; margin-top:10px; font-size:12px;text-shadow: 1px 1px 5px #000000; max-height:402px; overflow:hidden;}
+#input { border-radius:2px; border:1px solid #ccc; margin-top:10px; padding:5px; width:300px; }
+#status {display:block; float:left; margin-top:15px; }
+#scenewrapper { width:900px;float:left; }
+#chat { width:390px; height:500px;float:left; padding-left:10px; }
+#menu, .menu {height:70px; width:800px;}
+.settings {float:right;}
